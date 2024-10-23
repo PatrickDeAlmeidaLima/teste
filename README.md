@@ -2,6 +2,10 @@
 
 Este projeto é um sistema de reservas de salas, desenvolvido utilizando **Laravel** no backend e **ReactJS** no frontend. Ele permite criar, editar, excluir e desativar reservas de salas. Aqui estão as instruções para configurar e rodar o projeto localmente.
 
+## Resultado esperado:
+
+![Home](resources/img/index.png)
+
 ## Pré-requisitos
 
 Certifique-se de que você tenha as seguintes ferramentas instaladas em sua máquina:
