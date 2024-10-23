@@ -4,7 +4,7 @@ Este projeto é um sistema de reservas de salas, desenvolvido utilizando **Larav
 
 ## Resultado esperado:
 
-![Home](resources/img/index.png)
+![Home](https://github.com/PatrickDeAlmeidaLima/teste/blob/main/reservas-de-salas/resources/img/index.png)
 
 ## Pré-requisitos
 
